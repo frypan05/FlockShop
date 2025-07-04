@@ -53,5 +53,5 @@ FlockShop lets you **create, share, and collaborate** on wishlists with friends,
 ### 📦 Setup
 
 ```bash
-git clone https://github.com/frypan05/flockshop.git
+git clone https://github.com/frypan05/flockShop.git
 cd flockshop
